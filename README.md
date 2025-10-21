@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Let's Chat
+- 🌱 I’m currently learning C and its flavors
+- 🤔 I’m looking for help with not breaking stuff
+- 📫 How to reach me: @coolguy_63868 on discord, or send me a GitHub Issue
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am known as hackertron because of what I did in hbchat! (no i didnt do the doxxing)
 <!--
 **cool-guy-awesome/cool-guy-awesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
