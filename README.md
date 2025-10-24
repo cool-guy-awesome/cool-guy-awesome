@@ -5,6 +5,7 @@
 - 📫 How to reach me: @coolguy_63868 on discord, or send me a GitHub Issue
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am known as hackertron because of what I did in hbchat! (no i didnt do the doxxing)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cool-guy-awesome)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cool-guy-awesome/cool-guy-awesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
