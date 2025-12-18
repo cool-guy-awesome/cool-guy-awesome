@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on AuroraChat and other Unitendo projects
+- 🔭 I’m currently working on AuroraChat, reShop, and other Unitendo projects
 - 🌱 I’m currently learning C and its flavors
 - 🤔 I’m looking for help with not breaking stuff
 - 📫 How to reach me: @coolguy_63868 on discord, or send me a GitHub Issue
