@@ -2,7 +2,7 @@
 - 🔭 I work for Unitendo.
 - 🌱 I’m currently learning C and its flavors
 - 🤔 I’m looking for help with not breaking stuff
-- 📫 How to reach me: @coolguy_63868 on discord, or send me a GitHub Issue
+- 📫 How to reach me: @coolguy.unitendo on discord, or send me a GitHub Issue
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am known as hackertron because of what I did in hbchat! (no i didnt do the doxxing)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cool-guy-awesome)](https://github.com/anuraghazra/github-readme-stats)
