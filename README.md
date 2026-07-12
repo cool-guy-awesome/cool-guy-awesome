@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I work for Unitendo.
+- 🔭 I work for Startendo.
 - 🌱 I’m currently learning C and its flavors
-- 🤔 I’m looking for help with not breaking stuff
+- 🤔 Where... Where am I? Hello...? Anyone...? Is... is anybody out there...? Someone!? Anyone!? Can anyone hear me!? ... It's dark. It's so dark here. Someone, anyone, if you can hear me... Say something... please...
 - 📫 How to reach me: @coolguy.unitendo on discord, or send me a GitHub Issue
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am known as hackertron because of what I did in hbchat! (no i didnt do the doxxing)
